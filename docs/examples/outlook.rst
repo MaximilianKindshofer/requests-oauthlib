@@ -5,7 +5,7 @@ Create a new web application client in the `Microsoft Application Registration P
 When you have obtained a ``client_id``, ``client_secret`` and registered
 a callback URL then you can try out the command line interactive example below.
 
-.. _`Outlook App console`: https://apps.dev.microsoft.com
+.. _`Microsoft Application Registration Portal`: https://apps.dev.microsoft.com
 
 .. code-block:: pycon
 
